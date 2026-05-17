@@ -1,8 +1,6 @@
 # 💫 About Me:
-Full Stack Developer with 3+ years of production experience building scalable microservices, REST
-APIs, and event-driven systems. Proficient in Node.js, NestJS, Go, Python, and TypeScript. Experienced in OOP,
-design patterns, and clean code principles. Comfortable owning systems end-to-end from architecture to deployment.
-Based in Istanbul, fluent in English.
+Experienced Software engineer with over 4+ years in Backend and AI development, specializing in scalable microservices and data-driven analytics. Proven track record in designing robust architectures and implementing efficient solutions using
+modern technologies and frameworks.
 
 Coding, creating<br>👯 I’m looking to collaborate on Lifestyle-Proactivity<br>🌱 I’m currently learning Software Engineering<br>💬 Coding, System Design<br>⚡ I am also a Pianist and doing Cross-fitness
 
