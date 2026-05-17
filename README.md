@@ -11,9 +11,15 @@ Coding, creating<br>👯 I’m looking to collaborate on Lifestyle-Proactivity<b
 
 # 💻 Tech Stack:
 Languages: Rust, Go, Python, Java, JavaScript, SQL
+
 Frameworks & Libraries: Spring Boot, Microservices, Apache Kafka, gRPC, JPA, React, FastAPI
+
 Tools & Technologies: Docker, Kubernetes, AWS, Apache Maven, Jenkins, Terraform
+
 Databases: ClickHouse, Cassandra, PostgreSQL, Oracle, MongoDB, Redis, Elasticsearch
+
 Methodologies & Practices: Agile, Scrum, CI/CD, TDD, DevOps, Clean Code, ETL, BI
+
 Observability: Prometheus, Grafana, ELK Stack, APM tools
+
 AI/LLM: LangGraph, LangChain, OpenAI API, Anthropic Claude API, RAG pipelines, embeddings, vector search, prompt engineering
